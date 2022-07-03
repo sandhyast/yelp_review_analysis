@@ -1,7 +1,6 @@
-# yelp_review_analysis
 
-Sentiment Analysis of Yelp Reviews
-by Ashlyn B Aske, Sandhya Thomas & Nikolas Anderson
+# Sentiment Analysis of Yelp Reviews <br>
+*by Ashlyn B Aske, Sandhya Thomas & Nikolas Anderson*
 
 **Introduction**
 
